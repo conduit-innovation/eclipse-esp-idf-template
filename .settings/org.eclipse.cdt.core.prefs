@@ -4,10 +4,10 @@ environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1139258778/BATCH_B
 environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1139258778/BATCH_BUILD/value=1
 environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1139258778/IDF_PATH/delimiter=\:
 environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1139258778/IDF_PATH/operation=replace
-environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1139258778/IDF_PATH/value=~/esp-idf
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1139258778/IDF_PATH/value=~/esp/esp-idf
 environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1139258778/PATH/delimiter=\:
 environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1139258778/PATH/operation=replace
-environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1139258778/PATH/value=/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/usr/games\:/usr/local/games\:/snap/bin\:${HOME}/xtensa-esp32-elf/bin
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1139258778/PATH/value=/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/usr/games\:/usr/local/games\:/snap/bin\:${HOME}/esp/xtensa-esp32-elf/bin
 environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1139258778/append=true
 environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1139258778/appendContributed=true
 environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1833810295/BATCH_BUILD/delimiter=\:
